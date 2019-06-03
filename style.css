@@ -133,3 +133,7 @@ nav::after {
 .borded-section.blue {
 	background-color: #0D325A;
 }
+
+.col-1 img {
+	height: 250px;
+}
