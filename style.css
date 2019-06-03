@@ -137,3 +137,9 @@ nav::after {
 .col-1 img {
 	height: 250px;
 }
+
+.bridge {
+	text-align: center;
+	height: 100px;
+	background-color: lightgrey;
+}
