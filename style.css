@@ -101,12 +101,11 @@ nav::after {
 }
 
 /*-----------------------------------------------*/
-.main-section {
+.borded-section {
 	padding: 0 10%;
-	border: 1px solid black;
 }
 
-.main-section h2,h4 {
+.borded-section h2,h4 {
 	text-align: center;
 	margin: 10px;
 }
@@ -119,4 +118,14 @@ nav::after {
 
 .col-3 img {
 	height: 80px;
+}
+
+.col-2 {
+	display: inline-block;
+	width: 48%;
+	padding: 10px;
+}
+
+.col-2 img {
+	height: 350px;
 }
