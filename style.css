@@ -99,3 +99,24 @@ nav::after {
 	background-repeat: no-repeat;
 	background-position: bottom right;
 }
+
+/*-----------------------------------------------*/
+.main-section {
+	padding: 0 10%;
+	border: 1px solid black;
+}
+
+.main-section h2,h4 {
+	text-align: center;
+	margin: 10px;
+}
+
+.col-3 {
+	display: inline-block;
+	width: 32%;
+	padding: 10px;
+}
+
+.col-3 img {
+	height: 80px;
+}
