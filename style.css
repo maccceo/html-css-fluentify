@@ -153,11 +153,21 @@ nav::after {
 }
 
 .footer-bridge {
-	background-color: #0D325A;
+	background-color: #0F335A;
 	padding: 30px 0 0 100px;
 	height: 150px;
 }
 
 .footer-bridge h3 {
 	color: white;
+}
+
+.footer-contacts {
+	height: auto;
+	background-color: #17406B;
+	padding: 0 10%;
+}
+
+.footer-contacts ul li {
+	text-decoration: none;
 }
